@@ -1,0 +1,7 @@
+[2026-10-12T20:05:10Z] === AST ITERATION 1 START | repo=executablebooks/MyST-NB sha=23b1747f ===
+[2026-10-12T20:05:10Z] [iter=1] PHASE START: ast repo=executablebooks/MyST-NB sha=23b1747f
+[2026-10-12T20:05:10Z] [iter=1] Building AST aggregate chunks
+[2026-10-12T20:05:47Z] [iter=1] AST chunks built count=1 triples=353742
+[2026-10-12T20:05:47Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/23b1747ff9b7e408244c62dd3981238ea193b25a/.complete
+[2026-10-12T20:05:47Z] [iter=1] PHASE END: ast elapsed_s=37 elapsed_min=0.6
+[2026-10-12T20:05:47Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

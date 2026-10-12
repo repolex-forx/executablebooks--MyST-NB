@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/MyST-NB/commit/23b1747ff9b7e408244c62dd3981238ea193b25a",
       "git:hexsha": "23b1747ff9b7e408244c62dd3981238ea193b25a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/executablebooks/MyST-NB/commit/85398f0efbfc6c9d09288d610b962e4f444461f8",
